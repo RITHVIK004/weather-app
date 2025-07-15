@@ -1,0 +1,11 @@
+# Ignore everything except our WAR
+*.iml
+*.log
+*.class
+*.jar
+*.zip
+*.rar
+*.7z
+.git
+.gitignore
+node_modules
